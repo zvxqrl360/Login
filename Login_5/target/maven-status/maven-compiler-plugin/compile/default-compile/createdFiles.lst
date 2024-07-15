@@ -1,0 +1,6 @@
+com\mycompany\login_5\resources\JakartaEE10Resource.class
+backingBean\beanIngreso.class
+controller\ControllerLogIn.class
+com\mycompany\login_5\JakartaRestConfiguration.class
+dao\DaoUser.class
+model\User.class
